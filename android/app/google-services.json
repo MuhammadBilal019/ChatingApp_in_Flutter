@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "484028778766",
+    "project_id": "gupshap-ea49d",
+    "storage_bucket": "gupshap-ea49d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484028778766:android:c03833531fbf1ea0636f5f",
+        "android_client_info": {
+          "package_name": "com.example.gupshap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484028778766-pb2ono5o26dcjm5ac4dl9ns53906ad73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gupshap",
+            "certificate_hash": "2b672756eed1ca810b24bd12080eeef751a806ef"
+          }
+        },
+        {
+          "client_id": "484028778766-ncgvdqo0nroolkeleb2epq1419q42jcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvoPAx4tzGyfGs-2riBdM0EPj3r9Xf5gM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484028778766-ncgvdqo0nroolkeleb2epq1419q42jcn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
